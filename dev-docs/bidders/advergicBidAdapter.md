@@ -116,7 +116,7 @@ The adapter also maintains an Advergic user ID in browser local storage when sto
 
 ## Event Tracking
 
-The adapter can send additional event notifications to Advergic for win, loss, timeout, and bidder-error analytics.
+The adapter can send additional event notifications to Advergic for win, timeout, and bidder-error analytics.
 
 Publishers can disable these additional event-tracking requests without disabling the auction:
 
